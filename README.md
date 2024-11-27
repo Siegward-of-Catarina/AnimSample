@@ -1,0 +1,1 @@
+YoutubeよりGame Engine Programmingシリーズの primal engine 内のローディングアニメーションを制作　
